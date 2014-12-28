@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Twitter Search</string>
+    <string name="welcome">Welcome</string>
+    <string name="word">Enter word to search Ex.@hellohaptik</string>
+    <string name="search">Search</string>
+    <string name="enter_search_word">Please Enter search word</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="check_netwok">Please check your network setting try again latter</string>
+
+</resources>
